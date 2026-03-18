@@ -3,7 +3,7 @@
 - Building web apps, games, and clean portfolio projects  
 - Focused on mastering full-stack dev 
 
-🔗 Portfolio → [Kavya-Codes.com/Portfolio](https://kavy-codes.github.io/Portfolio/)
+🔗 Portfolio → [Kavya-Codes.com/Portfolio](https://kavy-codes.github.io/Info/)
 
 ## 🛠️ Tech Stack
 - HTML | CSS | JavaScript | Tailwind | React
